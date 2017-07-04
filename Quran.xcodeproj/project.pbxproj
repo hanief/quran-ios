@@ -856,6 +856,12 @@
 		68E316D282FF8EFEB064A26B /* Pods_UIKitExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UIKitExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A4C696879036386E3E1460B /* Pods_QuranTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuranTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CBAAEAA5F6076B29DB5FE44 /* Pods_BatchDownloader.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BatchDownloader.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7DBA85951F0C4A3700742C19 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7DBA85961F0C4A3700742C19 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7DBA85971F0C4A3700742C19 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Android.strings; sourceTree = "<group>"; };
+		7DBA85981F0C4A3700742C19 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Suras.strings; sourceTree = "<group>"; };
+		7DBA85991F0C4A3700742C19 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Readers.strings; sourceTree = "<group>"; };
+		7DBA859A1F0C4A3700742C19 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = id; path = id.lproj/Android.stringsdict; sourceTree = "<group>"; };
 		979C2D6F1401844F1962C482 /* Pods-Quran.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quran.release.xcconfig"; path = "Pods/Target Support Files/Pods-Quran/Pods-Quran.release.xcconfig"; sourceTree = "<group>"; };
 		A1C4D17DF9C049CBECBB13FE /* Pods-Quran.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Quran.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Quran/Pods-Quran.debug.xcconfig"; sourceTree = "<group>"; };
 		A4C4845C7D3953895D14D1E5 /* Pods-SQLitePersistence.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SQLitePersistence.release.xcconfig"; path = "Pods/Target Support Files/Pods-SQLitePersistence/Pods-SQLitePersistence.release.xcconfig"; sourceTree = "<group>"; };
@@ -2556,6 +2562,7 @@
 				tr,
 				zh,
 				nl,
+				id,
 			);
 			mainGroup = 54B265DA1CC57D8E00D3AEF8;
 			productRefGroup = 54B265E41CC57D8F00D3AEF8 /* Products */;
@@ -3401,6 +3408,7 @@
 				5419E4CA1CFA26E200071A6D /* tr */,
 				5419E4CB1CFA26E300071A6D /* zh */,
 				545EE50F1DCBC4DE0085D31F /* nl */,
+				7DBA85971F0C4A3700742C19 /* id */,
 			);
 			name = Android.strings;
 			sourceTree = "<group>";
@@ -3423,6 +3431,7 @@
 				5419E51A1CFA2BB100071A6D /* tr */,
 				5419E51B1CFA2BB200071A6D /* zh */,
 				545EE5101DCBC4DE0085D31F /* nl */,
+				7DBA85981F0C4A3700742C19 /* id */,
 			);
 			name = Suras.strings;
 			sourceTree = "<group>";
@@ -3445,6 +3454,7 @@
 				5419E52C1CFA2BCA00071A6D /* tr */,
 				5419E52D1CFA2BCB00071A6D /* zh */,
 				545EE5111DCBC4DE0085D31F /* nl */,
+				7DBA85991F0C4A3700742C19 /* id */,
 			);
 			name = Readers.strings;
 			sourceTree = "<group>";
@@ -3467,6 +3477,7 @@
 				5419E5411CFA46A300071A6D /* zh */,
 				5419E5421CFA46A500071A6D /* tr */,
 				545EE5121DCBC4DE0085D31F /* nl */,
+				7DBA859A1F0C4A3700742C19 /* id */,
 			);
 			name = Android.stringsdict;
 			sourceTree = "<group>";
@@ -3489,6 +3500,7 @@
 				54B266FC1CD657DE00D3AEF8 /* tr */,
 				54B266FE1CD69DE000D3AEF8 /* zh */,
 				545EE50E1DCBC4DE0085D31F /* nl */,
+				7DBA85961F0C4A3700742C19 /* id */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3511,6 +3523,7 @@
 				54B266FB1CD657DE00D3AEF8 /* tr */,
 				54B266FD1CD69DE000D3AEF8 /* zh */,
 				545EE5131DCBC4DE0085D31F /* nl */,
+				7DBA85951F0C4A3700742C19 /* id */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";

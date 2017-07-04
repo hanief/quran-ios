@@ -1,0 +1,29 @@
+/*
+ New Localizations in Quran for iOS
+ */
+
+"NetworkError_ConnectionLost" = "Koneksi Internet terputus. Mohon pindah ke tempat dengan koneksi yang lebih baik, atau tunggu hingga koneksinya kembali stabil.";
+"NetworkError_InternationalRoamingOff" = "Roaming internasional tak diizinkan. Mohon ubah pengaturan roaming internasional, atau nyalakan Wi-Fi.";
+"NetworkError_NotConnectedToInternet" = "Tidak terhubung dengan Internet. Nyalakan Wi-Fi, atau izinkan koneksi data seluler.";
+"NetworkError_ServerNotReachable" = "Aduh! Terjadi kesalahan. Mohon coba lagi.";
+"unknown_error_message" = "Aduh! Terjadi kesalahan. Mohon coba lagi.";
+"NetworkError_Parsing" = "Aduh! Terjadi kesalahan. Mohon coba lagi.";
+
+"FileSystemError_Unknown" = "Aduh! Terjadi kesalahan. Mohon coba lagi.";
+"FileSystemError_NoDiskSpace" = "Ruang disk tidak cukup untuk menyimpan hasil unduhan.";
+
+
+"translatorLabel: " = "Penerjemah: ";
+"upgradeTranslationButtonTitle" = "PERBARUI";
+
+"translationsSelectionTitle" = "Pilih Terjemahan/Tafsir";
+"translationsSelectionPrompt" = "Pilih urutan tampilan sesuai keinginan";
+
+"errorInTranslationText" = "Aduh! Terjadi kesalahan. Kami tak dapat mengambil terjemahan.";
+"noAvailableTranslationText" = "Tak tersedia terjemahan untuk ayat ini.";
+
+"searchRecentsTitle" = "Pencarian terbaru";
+"searchPopularTitle" = "Coba cari menggunakan";
+
+"translationTextType" = "Terjemahan";
+"transliterationTextType" = "Transliterasi";
